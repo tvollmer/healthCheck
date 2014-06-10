@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: Jack.Black
+Build-Jdk: 1.6.0_25
+Implementation-Title: fooweb
+Implementation-Version: 4.18.24-SNAPSHOT
+Implementation-Vendor-Id: com.avacodo.core
+Build-Date: 20110920-0945
+Implementation-Build: Tuesday, September 20, 2011 9:45:33 AM CDT
+
